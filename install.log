@@ -1,0 +1,35 @@
+[INSTALL] Initializing update check. Platform: win32-x64, Extension Version: 1.7.0
+[INSTALL] Using custom channel override: production
+[INSTALL] Checking for updates at releaseBaseUrl=https://antigravity-cli-auto-updater-974169037036.us-central1.run.app...
+[INSTALL] Binary path does not exist: C:\Users\glenr\.gemini\bin\agy.exe
+[INSTALL] Checking for updates at releaseBaseUrl=https://antigravity-cli-auto-updater-974169037036.us-central1.run.app...
+[INSTALL] Release channel change detected (last installed URL: 'undefined', target URL: 'https://antigravity-cli-auto-updater-974169037036.us-central1.run.app'). Forcing backend binary re-download.
+[INSTALL] Checking Antigravity releases...
+[INSTALL] Fetching manifest from releaseBaseUrl=https://antigravity-cli-auto-updater-974169037036.us-central1.run.app...
+[INSTALL] Found release v1.3.5 (win32-x64): https://storage.googleapis.com/antigravity-public/antigravity-cli/1.3.5-6164039479459840/windows-x64/cli_windows_x64.exe
+[INSTALL] Downloading Antigravity Backend to temporary path C:\Users\glenr\.gemini\bin\agy.tmp.6c8d7c10-5f7c-48e4-b754-e4bc3f0f3c98...
+[INSTALL] Download progress: 10% (19427322/193870488 bytes)
+[INSTALL] Download progress: 20% (38786884/193870488 bytes)
+[INSTALL] Download progress: 30% (58166294/193870488 bytes)
+[INSTALL] Download progress: 40% (77558611/193870488 bytes)
+[INSTALL] Download progress: 50% (96942211/193870488 bytes)
+[INSTALL] Download progress: 60% (116324343/193870488 bytes)
+[INSTALL] Download progress: 70% (135734284/193870488 bytes)
+[INSTALL] Download progress: 80% (155112418/193870488 bytes)
+[INSTALL] Download progress: 90% (174487557/193870488 bytes)
+[INSTALL] Download progress: 100% (193870488/193870488 bytes)
+[INSTALL] Verifying SHA512 checksum...
+[INSTALL] SHA512 checksum verified successfully.
+[INSTALL] Antigravity Backend successfully installed to C:\Users\glenr\.gemini\bin\agy.exe.
+[LAUNCH] Spawning C:\Users\glenr\.gemini\bin\agy.exe (v1.3.5) --hub --hub-port=63056 --app_data_dir=antigravity --csrf_token=5e02406e-5ea8-41fd-9ee2-2aa8e2a6bf99 --add-dir=c:\Users\glenr\portfolio-next
+[LAUNCH] Server at http://127.0.0.1:63056 is READY after 1 attempt(s).
+[HUB STDOUT] ANTIGRAVITY_OPEN_URL: https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&code_challenge=OiPPjKLeqhUkOLHD0TvAoJSq55i5iIwiqSaj4cjfkB8&code_challenge_method=S256&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A57063%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faicode&state=cm0-WF8jZgQ0hrjMdBq0cg
+[LAUNCH] Intercepted auth URL: https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&code_challenge=OiPPjKLeqhUkOLHD0TvAoJSq55i5iIwiqSaj4cjfkB8&code_challenge_method=S256&prompt=consent&redirect_uri=http%3A%2F%2Flocalhost%3A57063%2Fauth%2Fcallback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faicode&state=cm0-WF8jZgQ0hrjMdBq0cg
+[LAUNCH ERROR] Server process exited unexpectedly with code null, signal SIGTERM
+[INSTALL] Initializing update check. Platform: win32-x64, Extension Version: 1.7.0
+[INSTALL] Using custom channel override: production
+[INSTALL] Checking for updates at releaseBaseUrl=https://antigravity-cli-auto-updater-974169037036.us-central1.run.app...
+[INSTALL] Found existing valid binary v1.3.5 (>= 1.1.11). Checking for updates with 3s budget...
+[INSTALL] Installed binary is valid (actual version 1.3.5 >= target 1.3.5). Skipping download.
+[LAUNCH] Spawning C:\Users\glenr\.gemini\bin\agy.exe (v1.3.5) --hub --hub-port=50193 --app_data_dir=antigravity --csrf_token=7cd7e865-477d-4171-aa4c-a0e57d78caab --add-dir=c:\Users\glenr\.gemini\antigravity\scratch\portfolio
+[LAUNCH] Server at http://127.0.0.1:50193 is READY after 3 attempt(s).
